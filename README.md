@@ -12,3 +12,5 @@ Empty directory name: empty
 Non-Empty directory name: not empty
 Non-Empty directory file count: 2
 ```
+
+Created for an interview problem.
